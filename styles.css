@@ -4,7 +4,7 @@
     font-style: italic;
     font-weight: bold;
     text-align: center; 
-    font-family:Lobster, Tahoma, sans-serif;
+    font-family:permanent marker, Tahoma, sans-serif;
     background-color: whitesmoke;
     padding: 20px;
     border: 2px solid red;
@@ -16,7 +16,7 @@ h2.destination{
     font-style: italic;
     font-weight: bold;
     text-align: center; 
-    font-family:Lobster, Tahoma, sans-serif;
+    font-family:permanent marker, Tahoma, sans-serif;
     background-color: whitesmoke;
     padding: 20px;
     border: 2px solid red;
@@ -34,7 +34,7 @@ h5{
     font-size: 30px;
     font-style: italic;
     font-weight: bold;
-    font-family:Lobster, Tahoma, sans-serif;
+    font-family:permanent marker, Tahoma, sans-serif;
     padding: 20px;
     text-align: center;
     background-color: whitesmoke;
@@ -59,8 +59,8 @@ img {
         font-size: 30px;
         font-style: italic;
         text-align: center;
-        font-weight: bold;
-        font-family:caveat, Tahoma, sans-serif;  
+        font-weight: bolder;
+        font-family:lobster, Tahoma, sans-serif;  
         text-decoration: underline;
         padding: 20px;  
         
@@ -115,7 +115,7 @@ img {
         font-size: 50px;
         font-style: italic;
         font-weight: bold;
-        font-family:Lobster, Tahoma, sans-serif;
+        font-family:permanent marker, Tahoma, sans-serif;
         padding: 20px;
         text-align: center;
         background-color: whitesmoke;
